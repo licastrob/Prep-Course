@@ -1,0 +1,18 @@
+h1 {color: rgb(35, 54, 226)
+} 
+
+img {width:400px
+}
+
+#thirDiv {
+height: 600px;
+width: 500px;
+background-color: rgb(218, 116, 49);
+padding: 50px;
+border: 6px solid salmon;
+}
+
+#spanid {
+font-size: 18px;
+margin: 50px;
+}
